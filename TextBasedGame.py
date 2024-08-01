@@ -1,4 +1,4 @@
-#Aubriana Wright
+#Aub
 
 import os
 
